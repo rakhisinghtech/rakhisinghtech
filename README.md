@@ -1,6 +1,4 @@
-# RakhiDev
-Hi there 
-👋 I’m Rakhi Singh
+## 👋 Hi there! I’m Rakhi Singh
 
 Welcome to my GitHub space!
 I’m a MERN Stack Developer (SDE-1) with 3+ years of experience, specializing in building scalable, high-performance, and user-centric web applications using MongoDB, Express.js, React, and Node.js.
